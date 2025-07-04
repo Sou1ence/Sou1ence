@@ -1,4 +1,5 @@
 # Era (Sou1ence)
+![PJATK](https://img.shields.io/badge/PJATK-University-ec6268?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNmZmZmZmYiLz4KPHN2ZyB4PSIyIiB5PSIyIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCI+CjxwYXRoIGQ9Ik0wIDEwQzAgMTUuNTIzIDQuNDc3IDIwIDEwIDIwczEwLTQuNDc3IDEwLTEwSDB6IiBmaWxsPSIjZTMxZjI5Ii8+Cjwvc3ZnPgo8L3N2Zz4K&logoColor=fdf2f0)
 
 <table>
 <tr>
