@@ -40,6 +40,10 @@ Working on projects that combine security research with practical application de
 - **Documentation:** Mermaid diagrams
 - **AI Tools:** GitHub Copilot, ChatGPT integration
 
+## Contact
+> **For questions or feedback, feel free to reach out via email**
+                  `s29919@pjwstk.edu.pl`
+
 </td>
 </tr>
 </table>
