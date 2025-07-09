@@ -16,7 +16,7 @@ Security research, vulnerability analysis, and developing intelligent systems. O
   <img src="https://streak-stats.demolab.com?user=Sou1ence&theme=dark&background=2a2a28&ring=ba694b&fire=ba694b&currStreakLabel=f9f8f4&sideLabels=f9f8f4&currStreakNum=f9f8f4&sideNums=f9f8f4&dates=7a9b6b" alt="GitHub Streak"/>
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sou1ence&bg_color=2a2a28&color=f9f8f4&line=ba694b&point=7a9b6b&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
+ 
 </td>
 <td width="50%" valign="top">
 
