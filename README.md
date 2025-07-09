@@ -5,25 +5,22 @@
 <tr>
 <td width="50%" valign="top">
 
-## About
+## 🔸 About
 3rd-year Computer Science student at the Polish-Japanese Academy of Information Technology, focused on cybersecurity, reverse engineering, and AI development. Building practical solutions that combine security research with application development.
 
-## Current Focus
+## 🔸 Current Focus
 Security research, vulnerability analysis, and developing intelligent systems. Open to collaboration on innovative projects and exploring emerging technologies.
 
-## GitHub Activity
+## 🔸 GitHub Activity
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sou1ence&theme=dark&background=2a2a28&ring=ba694b&fire=ba694b&currStreakLabel=f9f8f4&sideLabels=f9f8f4&currStreakNum=f9f8f4&sideNums=f9f8f4&dates=7a9b6b" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sou1ence&bg_color=2a2a28&color=f9f8f4&line=ba694b&point=7a9b6b&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
-
- 
-
 </td>
 <td width="50%" valign="top">
 
-## Technical Skills
+## 🔸 Technical Skills
 ### Programming Languages
 - **Java** — Primary development language
 - **C++** — Systems programming and performance applications
@@ -41,7 +38,7 @@ Security research, vulnerability analysis, and developing intelligent systems. O
 - **System:** Linux, Shell scripting
 - **AI Tools:** GitHub Copilot, ChatGPT integration
 
-## Contact
+## 🔸 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-s29919@pjwstk.edu.pl-D14836?style=flat&logo=gmail&logoColor=white)](mailto:s29919@pjwstk.edu.pl)
 
 </td>
