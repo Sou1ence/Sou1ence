@@ -10,7 +10,7 @@
 
 ## 🔸 Current Focus
 Security research, vulnerability analysis, and developing intelligent systems. Open to collaboration on innovative projects and exploring emerging technologies.
-
+  <br/><br/>
 ## 🔸 GitHub Activity
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sou1ence&theme=dark&background=2a2a28&ring=ba694b&fire=ba694b&currStreakLabel=f9f8f4&sideLabels=f9f8f4&currStreakNum=f9f8f4&sideNums=f9f8f4&dates=7a9b6b" alt="GitHub Streak"/>
