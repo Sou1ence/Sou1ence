@@ -41,8 +41,10 @@ Working on projects that combine security research with practical application de
 - **AI Tools:** GitHub Copilot, ChatGPT integration
 
 ## Contact
-> **For questions or feedback, feel free to reach out via email**
-                  `s29919@pjwstk.edu.pl`
+[![Gmail](https://img.shields.io/badge/Gmail-s29919@pjwstk.edu.pl-D14836?style=flat&logo=gmail&logoColor=white)](mailto:s29919@pjwstk.edu.pl)  
+<sub>For questions or feedback, feel free to reach out via email.</sub>
+
+
 
 </td>
 </tr>
