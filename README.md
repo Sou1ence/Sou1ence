@@ -28,9 +28,7 @@ Security research, vulnerability analysis, and developing intelligent systems. O
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sou1ence&theme=gruvbox" alt="Profile Summary"/>
   
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sou1ence&bg_color=2a2a28&color=f9f8f4&line=ba694b&point=7a9b6b&area=true&hide_border=true" alt="Activity Graph"/>
+ 
 
 </div>
  
