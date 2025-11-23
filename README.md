@@ -65,15 +65,12 @@ Security research, vulnerability analysis, and developing intelligent systems. O
 </table>
 
 ---
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=7A9B6B&center=true&vCenter=true&width=800&lines=If+you+only+read+the+books+that+everyone+else+is+reading...;you+can+only+think+what+everyone+else+is+thinking;%E2%80%94+Haruki+Murakami" alt="Quote Typing SVG" />
-
+  <img style="margin-bottom:-12px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=7A9B6B&center=true&vCenter=true&width=800&lines=If+you+only+read+the+books+that+everyone+else+is+reading...;you+can+only+think+what+everyone+else+is+thinking;%E2%80%94+Haruki+Murakami" />
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BA694B&height=100&section=footer" width="100%"/>
-
+  <img style="margin-top:-20px;" src="https://capsule-render.vercel.app/api?type=waving&color=BA694B&height=100&section=footer" width="100%"/>
 </div>
+
+
