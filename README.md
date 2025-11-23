@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=BA694B&center=true&vCenter=true&width=600&lines=Era...;Cybersecurity+Researcher;Reverse+Engineering+Enthusiast;AI+Development+%7C+Security+Analysis;Building+Practical+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=BA694B&center=true&vCenter=true&width=600&lines=Era...;Cybersecurity+Researcher;Reverse+Engineering+Enthusiast;UI+Development+%7C+Security+Analysis;Building+Practical+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🔸 About
 
-3rd-year Computer Science student at the Polish-Japanese Academy of Information Technology, focused on cybersecurity, reverse engineering, and AI development. Building practical solutions that combine security research with application development.
+3rd-year Computer Science student at the Polish-Japanese Academy of Information Technology, focused on cybersecurity, reverse engineering, UI development. Building practical solutions that combine security research with application development.
 
 ## 🔸 Current Focus
 
@@ -46,7 +46,7 @@ Security research, vulnerability analysis, and developing intelligent systems. O
 - **Rust** — Async programming, networking
 - **Python** — Automation, scripting, GUI development
 - **JavaScript** — Frontend development
-- **HTML/CSS** — Web technologies
+- **HTML/CSS/Typescript** — Web technologies
 
 ### Most Used Languages
 
