@@ -51,7 +51,7 @@ Security research, vulnerability analysis, and developing intelligent systems. O
 - **Development:** IntelliJ IDEA, RustRover, Neovim, Git
 - **UI/UX:** JavaFX, Figma, SVG animations
 - **System:** Linux, Shell scripting
-- **AI Tools:** GitHub Copilot, ChatGPT integration
+- **AI Tools:** GitHub Copilot, Claude
 
 ## 🔻 Contact
 
