@@ -20,4 +20,6 @@
 
 <p align="center">
   <a href="mailto:s29919@pjwstk.edu.pl">Get in touch</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kostiantyn-feniuk-b58ab1400/">LinkedIn</a>
 </p>
